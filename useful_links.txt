@@ -1,0 +1,6 @@
+1.  Задание
+    https://github.com/VVVikulin/ml1.sphere/tree/master/2020-02/project
+
+2.  Соревнование на kaggle
+    https://www.kaggle.com/c/anomaly-detection-competition-ml1-ts-spring-2020
+
