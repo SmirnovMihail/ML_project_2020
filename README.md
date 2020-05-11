@@ -1,2 +1,2 @@
-# ML-project-2020
+# ML_project_2020
 Sphere project
